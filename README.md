@@ -4,17 +4,14 @@ pub-res
 A public repository for any and all web resources maintained by me.
 
 
-Design
-=======
+##Design
 
 https://typekit.com/fonts/adelle-sans
 
-technical
-=======
+##technical
 
 
-codeigniter
-=====
+#### codeigniter
 
 http://ellislab.com/codeigniter
 
