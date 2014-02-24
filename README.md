@@ -13,5 +13,6 @@ https://typekit.com/fonts/adelle-sans
 
 #### codeigniter
 
-http://ellislab.com/codeigniter
+base: http://ellislab.com/codeigniter
 
+simple login tutorial: http://www.codefactorycr.com/login-with-codeigniter-php.html
